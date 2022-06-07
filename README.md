@@ -1,7 +1,7 @@
 <h1 align="center">Python Auth-System</h1>
 <h3 align="center">Code en Python de système de Auth</h3>
 
-- Remplacer le "votre lien pastebin" par votre lien pastebin [Pastebin :](https://pastebin.com/)
+- Remplacer le "votre lien pastebin" par votre lien pastebin [Pastebin](https://pastebin.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
